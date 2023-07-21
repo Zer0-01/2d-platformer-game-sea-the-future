@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/1.Main.unity
+    guid: 93f00d9c0f5c5e4469072fb01b94397e
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/2.Game Overview.unity
+    guid: 95cfc169e43c278489b2bb30a054625d
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/3.Loading Scene.unity
+    guid: 4455f62860f921740a4e2ddd7b977130
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/4.Coral One.unity
+    guid: 9be894136c40c4e498ef93d5783b0cfd
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/5.Loading Scene.unity
+    guid: a0230de5007746844a714203162ec180
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/6.Coral Two.unity
+    guid: 2afaad4df668d6e47a4a286b343d7b3d
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/7.Loading Scene.unity
+    guid: e77c37064c6b10f49b79983883875b9c
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/8.Fish One.unity
+    guid: 3157c1abdde4c8845adc088c1eb4a0e8
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/9.Loading Scene.unity
+    guid: 5590a8a839ac4ad498b6a1e71dd77673
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/10.Fish Two.unity
+    guid: e8a29f55805f6ec4c991f6d58c06bf32
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/11.Loading Scene.unity
+    guid: ce5d4051c94b01e4a9f2166697862ba9
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/12.Turtle One.unity
+    guid: aa146b9dedcbdd44d80504303af2cea8
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/13.Loading Scene.unity
+    guid: b954d9f3a1967ad4e8115b373403a477
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/14.Turtle Two.unity
+    guid: 97c11afb5734dbb4ab7e1ecac49e649a
+  - enabled: 1
+    path: Assets/Scenes/FInal Version 2/15.Loading Scene.unity
+    guid: 24fc21bba2f6d584192d7bee1534d686
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Trailer.unity
+    guid: 88dfa0a79e314ad4998f3e7b924ba7a7
+  m_configObjects: {}

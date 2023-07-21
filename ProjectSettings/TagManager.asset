@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Powerup
+  - Powerupspeed
+  - Poweruphigh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1670962361
+    locked: 0
+  - name: Middle
+    uniqueID: 3439533849
+    locked: 0
+  - name: Entity
+    uniqueID: 3983659041
+    locked: 0
+  - name: Foreground
+    uniqueID: 992078099
+    locked: 0
+  - name: Frontground
+    uniqueID: 1847328005
+    locked: 0
+  - name: DecorationFront
+    uniqueID: 498206337
+    locked: 0
